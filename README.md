@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![screen-capture](https://user-images.githubusercontent.com/68340831/134244096-b904a26d-0541-4e1f-a81c-baa43e84ecaf.gif)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
